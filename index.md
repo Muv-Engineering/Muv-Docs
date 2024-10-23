@@ -1,4 +1,4 @@
-# Welcome to Muv!
+# Muv Documentation
 
 Welcome to our official documentation site. Here you can find information about our policies and support.
 
