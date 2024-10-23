@@ -1,3 +1,3 @@
 # Privacy Policy
 
-Your privacy policy details go here.
+<embed src="files/MUV_PRIVACY_POLICY.pdf" width="800px" height="2100px" />
